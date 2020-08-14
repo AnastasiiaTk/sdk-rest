@@ -214,7 +214,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 2,
@@ -427,7 +428,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 3,
@@ -625,7 +627,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 4,
@@ -838,7 +841,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 5,
@@ -1051,7 +1055,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 6,
@@ -1249,7 +1254,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 7,
@@ -1462,7 +1468,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 8,
@@ -1675,7 +1682,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 9,
@@ -1873,7 +1881,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 10,
@@ -2086,7 +2095,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 11,
@@ -2299,7 +2309,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 12,
@@ -2497,7 +2508,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 13,
@@ -2710,7 +2722,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 14,
@@ -2908,7 +2921,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 15,
@@ -3121,7 +3135,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 16,
@@ -3334,7 +3349,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 17,
@@ -3547,7 +3563,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         },
         {
             "id": 18,
@@ -3760,7 +3777,32 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": {
+                        "id": 20,
+            			"candidate": null,
+                        "address": {
+                            "address1": null,
+                            "address2": null,
+                            "city": null,
+                            "state": null,
+                            "stateID": null,
+                            "stateName": null,
+                            "zip": null,
+                            "countryID": 1,
+                            "countryName": "United States",
+                            "countryCode": "US"
+                        },
+                        "clientCorporation": {
+                            "id": 13448,
+                            "name": "Capital One - Raleigh"
+                        },
+                        "effectiveDate": "2020-03-26",
+                        "effectiveEndDate": "2999-12-31",
+                        "externalID": null,
+                        "title": "New Profile Test",
+                        "versionID": 26641
+                     }
         },
         {
             "id": 19,
@@ -3958,7 +4000,8 @@
                 "data": []
             },
             "vendorClientCorporation": null,
-            "workWeekStart": null
+            "workWeekStart": null,
+            "location": null
         },
         {
             "id": 20,
@@ -4171,7 +4214,8 @@
                "id": 1,
                 "name": "ACME Corporation"
             },
-            "workWeekStart": 0
+            "workWeekStart": 0,
+            "location": null
         }
     ]
 }
